@@ -1,6 +1,18 @@
 ### Hi there 👋
 I am Mayur Pagare
 A passionate Full Stack Developer
+About Me:
+🌱 I’m currently learning DSA and Backend Development
+💬 Ask me about Data Structure and Algorithms and SpringBoot
+📫 How to reach me: rajatsingh12351@gmail.com
+🔭 All My Projects: I want to see
+⚡ Fun fact is I am Lazy yet Smart
+
+🌐 Socials:
+LinkedIn Instagram Facebook
+
+💻 Tech Stack:
+Java SpringBoot HTML5 JavaScript CSS3 MySQL Postman
 
 <!--
 **mayur3724/mayur3724** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
