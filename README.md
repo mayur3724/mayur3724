@@ -1,4 +1,6 @@
 ### Hi there 👋
+I am Mayur Pagare
+A passionate Full Stack Developer
 
 <!--
 **mayur3724/mayur3724** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
