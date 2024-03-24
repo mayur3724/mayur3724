@@ -7,8 +7,6 @@ About Me:
 📫 How to reach me: mayurpagare992@gmail.com@gmail.com
 ⚡ Fun fact is I am Lazy yet Smart
 
-🌐 Socials:
-LinkedIn Instagram Facebook
 
 💻 Tech Stack:
 Java SpringBoot HTML5 JavaScript CSS3 MySQL Postman
